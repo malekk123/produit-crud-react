@@ -1,0 +1,46 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "name": "Computer2",
+      "price": 5500,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 4300,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Smart phone",
+      "price": 3500,
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "Computer test",
+      "price": 9635,
+      "checked": false
+    },
+    {
+      "id": 5,
+      "name": "Smart test",
+      "price": 98521,
+      "checked": true
+    },
+    {
+      "name": "test1",
+      "price": "89633",
+      "checked": "on",
+      "id": 6
+    },
+    {
+      "name": "test2",
+      "price": "8963",
+      "checked": "on",
+      "id": 7
+    }
+  ]
+}
